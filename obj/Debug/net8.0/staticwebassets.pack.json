@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\PortfolioWebsite\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PortfolioWebsite.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PortfolioWebsite.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\PortfolioWebsite\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\PortfolioWebsite\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\PortfolioWebsite\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Luigi\\OneDrive\\04-DEVELOPMENT\\Projects\\PortfolioWebsite\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PortfolioWebsite.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PortfolioWebsite.props",
+      "PackagePath": "build\\PortfolioWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PortfolioWebsite.props",
+      "PackagePath": "buildMultiTargeting\\PortfolioWebsite.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PortfolioWebsite.props",
+      "PackagePath": "buildTransitive\\PortfolioWebsite.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
